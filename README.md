@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter , React native**
+- 🌱 I’m currently learning **.NET Angular**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/sadunirasikala](https://www.behance.net/sadunirasikala)
 
@@ -31,8 +31,13 @@
 
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=saduni9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+ <img src="https://streak-stats.demolab.com?user=saduni9&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
  </div>
+
+ <p  align="center" width="400"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saduni9&show_icons=true&theme=tokyonight&layout=compact" alt="saduni9" /></p>
+
+
+<p align="center" width="400"><img src="https://github-readme-stats.vercel.app/api?username=saduni9&show_icons=true&theme=tokyonight" alt="saduni9" /></p>
 
 
 
