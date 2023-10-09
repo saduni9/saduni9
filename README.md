@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sanduni Rasikala</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saduni9&label=Profile%20views&color=red&style=flat" alt="saduni9" /> </p>
+
 <img align="right"  width="250" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 
@@ -38,6 +39,11 @@
 
 
 <p align="center" width="400"><img src="https://github-readme-stats.vercel.app/api?username=saduni9&show_icons=true&theme=tokyonight" alt="saduni9" /></p>
+
+[![saduni9's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saduni9&bg_color=0d1117&color=58a6ff&line=58a6ff&point=24292e&area=true&hide_border=true)](https://github.com/saduni9/github-readme-activity-graph)
+
+
+
 
 
 
